@@ -1,0 +1,7 @@
+Command: C:\Users\hball\AppData\Local\Programs\Python\Python312\python.exe "C:\Users\hball\Downloads\crop-management-system-main\crop-management-system-main\ML\crop_prediction\ZDecision_Tree_Model_Call.py" " ANDHRA PRADESH " " GUNTUR " " RABI " 2>&1
+Output: C:\Users\hball\Downloads\crop-management-system-main\crop-management-system-main\ML\crop_prediction\ZDecision_Tree_Model_Call.py:7: DeprecationWarning: 'cgitb' is deprecated and slated for removal in Python 3.13
+  import cgitb
+Rice
+  ,  
+Potato
+  ,  
